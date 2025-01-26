@@ -17,7 +17,10 @@ Desafio Projeto Dashboard criado a partir do curso "Como organizar sua vida Fina
  Todas as planilhas foram criadas a partir do app Numbers, no app do Excel para celular não foi possível gerar as tabelas dinâmicas, então o Numbers foi
  essencial. 
  Mesmo com várias funcionalidades no app do IOS algumas opções não estavam disponíveis. Após finalizar todas as planilhas do projeto: Dados, Controller, Caixinha e Dashboard, foi necessário exportar o arquivo para o Excel a fim de incluir detalhes como ocultar as planilhas e inserir o gráfico de Economia.
- Apesar das mudanças de um app pra outro o resultado final surpreendeu. Corre, confira!!!!! 😀 
+ Apesar das mudanças de um app pra outro o resultado final surpreendeu. Corra, confira!!!!! 😀 
+
+ https://raw.githubusercontent.com/M3inina/Planilha-Inteligente-Dio-Caixa-Felipao/refs/heads/main/Dashboard.jpg
+ 
 
 # Aprendiz 
 
